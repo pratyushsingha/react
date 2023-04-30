@@ -10,7 +10,7 @@ import FunctionClick from './components/FunctionClick';
 import ClassClick from './components/ClassClick';
 import EventBind from './components/EventBind';
 import ParentComponent from './components/ParentComponent';
-import Usestate from './components/Usestate';
+import Usestate4 from './components/Usestate4'
 
 
 class App extends Component {
@@ -36,7 +36,7 @@ class App extends Component {
         {/* <ClassClick /> */}
         {/* <EventBind /> */}
         {/* <ParentComponent /> */}
-        <Usestate />
+        <Usestate4 />
       </div>
     )
   }
